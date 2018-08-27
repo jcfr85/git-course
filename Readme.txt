@@ -1,4 +1,4 @@
-asdasdasdasdasd# Git Courses
+# Git Courses
 
 Ficheiro da aula de Git e Github para iniciantes
 
